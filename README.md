@@ -106,7 +106,7 @@ while True:
 ```
 
 ## Output:
-##Client and Server
+## Client and Server:
 ![Screenshot (135)](https://github.com/K-Shanmugaraj/ChatStudy/assets/144870425/e8e0648b-8bff-4e3a-a3f9-7a70d088dcb1)
 
 
